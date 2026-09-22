@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize column widths in a PDF document exported from the Syncfusion Blazor DataGrid. The implementation modifies export output by configuring the `Columns` collection of `PdfExportProperties` before the PDF export operation is executed. This approach allows the exported PDF document to use widths that differ from the widths displayed in the DataGrid UI, ensuring better readability and layout control in generated reports. The sample provides a practical reference for developers who need to adjust exported PDF formatting without affecting the on-screen DataGrid presentation.
+This sample demonstrates how to customize column widths in a PDF document exported from the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The implementation modifies export output by configuring the `Columns` collection of `PdfExportProperties` before the PDF export operation is executed. This approach allows the exported PDF document to use widths that differ from the widths displayed in the DataGrid UI, ensuring better readability and layout control in generated reports. The sample provides a practical reference for developers who need to adjust exported PDF formatting without affecting the on-screen DataGrid presentation.
 
 ## Key Features
 
